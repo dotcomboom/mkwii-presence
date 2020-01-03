@@ -8,7 +8,7 @@ Mario Kart Wii (Wiimmfi) Rich Presence for Discord
 - Displays whether it is a **VS race or a Battle match**
 - Displays **number of players** in the lobby
 - Loads from a configuration file
-- Precompiled binary (WIP)
+- [Precompiled binaries](https://github.com/dotcomboom/mkwii-presence/releases)
 ## Screenshots
 **VS race:**
 
