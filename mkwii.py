@@ -12,9 +12,11 @@ config = {"friendCode": None, "watchURL": "https://wiimmfi.de/mkw/room/p[YOUR ID
 if os.path.isfile("config.json"):
     cfg_file = open("config.json", "r+")
     config = json.load(cfg_file)
+    cfg_file.close()
 else:
     cfg_file = open("config.json", "w")
     json.dump(config, cfg_file, indent=2, separators=(',', ': '))
+    cfg_file.close()
     
 if not "friendCode" in config.keys():
     config["friendCode"] = "None"
