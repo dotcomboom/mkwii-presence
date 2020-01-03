@@ -12,10 +12,13 @@ Mario Kart Wii (Wiimmfi) Rich Presence for Discord
 - Precompiled binary (WIP)
 ## Screenshots
 **VS race:**
+
 ![VS race](https://github.com/dotcomboom/mkwii-presence/blob/master/screenshots/vs.gif?raw=true)
 
 **Battle:**
+
 ![Battle](https://github.com/dotcomboom/mkwii-presence/blob/master/screenshots/battle.png?raw=true)
 
 **Offline/not in a room:**
+
 ![Offline/no room](https://github.com/dotcomboom/mkwii-presence/blob/master/screenshots/offline.png?raw=true)
