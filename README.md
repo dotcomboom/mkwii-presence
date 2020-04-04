@@ -26,7 +26,7 @@ When you run the program for the first time, it will write a skeleton configurat
 ```json
 {
   "friendCode": null,
-  "watchURL": "https://wiimmfi.de/mkw/room/p[YOUR ID]"
+  "watchURL": "https://wiimmfi.de/stats/mkw/room/p[YOUR ID]"
 }
 ```
 **`friendCode`** can be your friend code or other message surrounded by quotes. Leave it as `null` if you don't want to show it.
