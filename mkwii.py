@@ -7,7 +7,7 @@ import os
 import json
 from bs4 import BeautifulSoup
 
-config = {"friendCode": None, "watchURL": "https://wiimmfi.de/mkw/room/p[YOUR ID]"}
+config = {"friendCode": None, "watchURL": "https://wiimmfi.de/stats/mkw/room/p[YOUR ID]"}
 
 if os.path.isfile("config.json"):
     cfg_file = open("config.json", "r+")
