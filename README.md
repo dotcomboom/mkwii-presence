@@ -30,6 +30,6 @@ When you run the program for the first time, it will write a skeleton configurat
 }
 ```
 **`friendCode`** can be your friend code or other message surrounded by quotes. Leave it as `null` if you don't want to show it.
-**`watchURL`** is the important bit: it's the page to scrape. To find this, go the [Wiimmfi MKW Stats page](https://wiimmfi.de/mkw/) *while you are in an online match* and find your friend code or Mii name. Put the URL the *eye icon* ![Watch icon](https://wiimmfi.de/images/watch-pid-24x16.png) next to your friend code links to here.
+**`watchURL`** is the important bit: it's the page to scrape. To find this, go the [Wiimmfi MKW Stats page](https://wiimmfi.de/stats/mkw/) *while you are in an online match* and find your friend code or Mii name. Put the URL the *eye icon* ![Watch icon](https://wiimmfi.de/images/watch-pid-24x16.png) next to your friend code links to here.
 
 Advanced users might want to use their own Discord application for the Rich Presence. For that, you can add a **`client_id`** key, with your Discord-given Client ID. You'll need to upload [the art assets](https://github.com/dotcomboom/mkwii-presence/tree/master/discord-assets) yourself.
